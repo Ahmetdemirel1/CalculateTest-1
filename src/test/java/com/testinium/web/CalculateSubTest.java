@@ -14,7 +14,7 @@ public class CalculateSubTest extends HookTest {
 
   @Test
   public void subTest2() {
-    int result = calculate.sub(4, 3);
-    Assert.assertEquals(1, result);
+    int result = calculate.sub(5, 3);
+    Assert.assertEquals(2, result);
   }
 }
