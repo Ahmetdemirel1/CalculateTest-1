@@ -1,5 +1,6 @@
 package com.testinium.web;
 
+import com.testinium.web.process.Calculate;
 import org.junit.Assert;
 import org.junit.Test;
 

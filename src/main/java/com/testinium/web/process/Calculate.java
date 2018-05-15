@@ -1,4 +1,4 @@
-package com.testinium.web;
+package com.testinium.web.process;
 
 public class Calculate {
 
